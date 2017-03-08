@@ -1,0 +1,15 @@
+{
+  "name": "statischerfileserver",
+  "version": "1.0.0",
+  "description": "Ein statischer Fileserver",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Files",
+    "Server"
+  ],
+  "author": "Bernd Schiel",
+  "license": "ISC"
+}
