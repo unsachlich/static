@@ -5,7 +5,7 @@ var logger = require('morgan');
 
 var app = express();
 
-app.use(logger('combined'));
+app.use(logger('short'));
 
 var staticPath = path.join(__dirname, 'static');
 app.use(express.static(staticPath));
